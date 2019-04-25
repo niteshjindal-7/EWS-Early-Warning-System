@@ -1,1 +1,1 @@
-# EWS-Early-Warning-System
+# EWS-Early-Warning-System - Forecast sales value 
